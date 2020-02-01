@@ -1,5 +1,6 @@
 extends KinematicBody2D
 
+#testgit
 
 var move = Vector2()
 export var speed = 10 
